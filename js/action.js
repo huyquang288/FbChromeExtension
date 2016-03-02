@@ -1,0 +1,11 @@
+document.getElementById("rightCol").style.visibility="hidden";
+document.getElementById("u_0_q").style.visibility="hidden";
+document.getElementById("pinnedNav").style.visibility="hidden";
+document.getElementsByClassName("_19eb")[0].style.visibility="hidden";
+document.getElementById("listsNav").style.visibility="hidden";
+document.getElementById("appsNav").style.visibility="hidden";
+document.getElementById("interestsNav").style.visibility="hidden";
+document.getElementById("pagesNav").style.visibility="hidden";
+document.getElementById("eventsNav").style.visibility="hidden";
+document.getElementById("userNav").style.visibility="hidden";
+document.getElementById("rightCol").style.visibility="hidden";

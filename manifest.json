@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "FHUP",
+  "description": "This extension hide unimportant parts",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "https://www.facebook.com/"
+  ],
+  "content_scripts": [ {
+      "matches": ["https://www.facebook.com/*"],
+      "js": ["js/action.js"]
+   } ]
+  
+}

@@ -9,3 +9,5 @@ document.getElementById("pagesNav").style.visibility="hidden";
 document.getElementById("eventsNav").style.visibility="hidden";
 document.getElementById("userNav").style.visibility="hidden";
 document.getElementById("rightCol").style.visibility="hidden";
+document.getElementById("pagelet_sidebar").style.visibility="hidden";
+document.getElementById("u_0_5").style.visibility="hidden";
